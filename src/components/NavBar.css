@@ -1,0 +1,26 @@
+.butto :hover {
+    background-color: rgb(158, 235, 134);
+    border: 0.0001px solid rgb(82, 236, 52);
+    border-radius: 1rem;
+    transition-delay: 100ms;
+  }
+  .navb {
+    border: 2px solid rgb(216, 230, 230);
+    border-radius: 3rem;
+    background-color: rgb(216, 230, 230);
+  }
+  .styleheading {
+    cursor: auto;
+    background-color: rgb(237, 235, 102);
+    color: rgb(247, 4, 158);
+    padding-left: 1rem;
+    padding-right: 1rem;
+    font-size: 1.5rem;
+    border: 0.1px solid yellow;
+    border-radius: 2rem;
+  }
+  .conta
+  {
+    margin-left: 3rem;
+    margin-right: 3rem;
+  }

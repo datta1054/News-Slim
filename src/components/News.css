@@ -1,0 +1,22 @@
+.mainCard {
+    border: 0.13rem solid blue;
+    padding: 0.3rem;
+    border-radius: 01.1rem;
+  }
+  .headings {
+    margin: 85px 0px 30px 0px;
+  }
+  .boldCategory {
+    color: #ff6a00;
+  }
+  
+  .readMore {
+    background-color: rgb(30, 177, 30);
+    display: block;
+  }
+  .imagheih{
+      height: 12rem;
+  }
+  .cardHei{
+      height: 35rem;
+  }

@@ -3,8 +3,10 @@
     border: 0.0001px solid rgb(82, 236, 52);
     border-radius: 1rem;
     transition-delay: 100ms;
+    transition-duration: 500ms;
   }
   .navb {
+    margin: 0.4rem;
     border: 2px solid rgb(216, 230, 230);
     border-radius: 3rem;
     background-color: rgb(216, 230, 230);

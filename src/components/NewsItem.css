@@ -1,0 +1,47 @@
+.ncard {
+  display: flex;
+  flex-direction: column;
+  background-color: #a39191;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 16px;
+  margin: 4%;
+  padding: 2%;
+}
+.nname {
+  font-size: 0.8rem;
+}
+.ncard-title {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+.ncard-content {
+  font-size: 14px;
+  line-height: 1.5;
+}
+.success-button {
+  display: block;
+  width: 100%;
+  padding: 8px;
+  background-color: #28a745;
+  color: #ffffff;
+  border: none;
+  border-radius: 6px;
+  font-size: 16px;
+  font-weight: bold;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  cursor: pointer;
+  transition: background-color 0.3s ease-in-out;
+}
+
+.success-button:hover {
+  background-color: #218838;
+}
+
+.success-button:active {
+  background-color: #1e7e34;
+}
